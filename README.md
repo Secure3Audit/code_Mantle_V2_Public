@@ -8,8 +8,6 @@ Please read the below guidelines and policy carefully before submitting
 
 This repo is ONLY used for code sharing and please submit your findings on the https://www.secure3.io/contest/8cf76f955c contest page.
 
-**ALL the information is CONFIDENTIAL and under the protection of the signed NDA**
-
 ------
 
 ### Audit Time
